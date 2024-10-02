@@ -1,0 +1,9 @@
+1-odwroc-string.html
+2-sortuj-litery-stringa.html
+3-suma-iloczyn.html
+4-suma-kwadratow.html
+5-element-fibonacci.html
+6-obiekt-json.html
+7-obiekty-ksiazka.html
+8-sortowanie-babelkowanie.html
+9-funkcja-iloczyn.html
